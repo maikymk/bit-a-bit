@@ -1,4 +1,4 @@
 # bit-a-bit
 Estudo sobre operações bit a bit.
 
-Classe simples para fazer operações enviadas pelo usuário.
+Classe simples para fazer as operações solicitadas pelo usuário.
